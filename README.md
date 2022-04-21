@@ -5,7 +5,7 @@
 - 🌱 Estudante Sistemas da Informação 5/8
 <div align="center">
   <a href="https://github.com/rafashory">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=drafashory&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafashory&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafashory&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
  
@@ -27,3 +27,4 @@
   </div>
   
 ##
+
